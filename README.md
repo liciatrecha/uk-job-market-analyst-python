@@ -1,4 +1,4 @@
- UK Job Market Analyst – Python
+UK Job Market Analysis | Python, Pandas & Data Visualisation
 
  About This Project
 
