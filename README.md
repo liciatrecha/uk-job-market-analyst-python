@@ -1,27 +1,53 @@
-# UK Job Market Analyst — Project 3
+ UK Job Market Analyst – Python
 
-A Python portfolio project analysing UK job-market patterns across job demand, salaries, regions, work models and skills.
+ About This Project
 
-**Dataset note:** the included dataset is synthetic and created for portfolio/learning purposes. It is not presented as live UK labour-market data.
+I built this project using Python to analyse UK job-market data and identify patterns in job demand, salaries, regions, working arrangements and skills.
 
-## Business questions
-- Which roles have the highest demand?
-- How does salary change with experience?
-- Which UK regions have higher median salaries?
-- How common are hybrid, remote and on-site roles?
-- Which skills appear most frequently?
+ What I Analysed
 
-## Tools
-Python • Pandas • NumPy • Matplotlib • Git/GitHub
+* Job demand by role
+* Salary by experience level
+* Salary differences across UK regions
+* Remote vs hybrid vs on-site jobs
+* Most frequently requested skills
 
-## Run
-```bash
-pip install -r requirements.txt
-python src/analysis.py
-```
+Tools Used
 
-## Portfolio skills demonstrated
-Data cleaning • EDA • grouping/aggregation • salary analysis • regional analysis • skill extraction • visualisation • reproducible analysis • documentation
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* GitHub
 
-## Suggested next step
-Replace the synthetic CSV with a real public dataset and extend the project with SQL and Power BI/Tableau.
+ Key Findings
+
+* The dataset contains 2,400 job listings.
+* The median salary in the sample is approximately £48,984.
+* Hybrid jobs make up around 56% of the sample.
+* Salaries increase with experience level.
+* Python, SQL and Power BI are among the most frequently mentioned skills.
+
+ Project Files
+
+The project includes:
+
+* Python analysis code
+* Job-market dataset
+* Data visualisations
+* Analysis results
+* CSV files containing the findings
+
+ Skills Demonstrated
+
+Python • Data Cleaning • Exploratory Data Analysis • Pandas • NumPy • Data Visualisation • Data Analysis • Business Insights
+
+ Future Improvements
+
+I plan to extend this project using real UK job-market data and build an interactive Power BI dashboard.
+
+ About Me
+
+I am a Computer Science student building my portfolio towards a career in Data Analytics. I am currently developing my skills in Python, SQL, data visualisation and business analysis.
+
+Open to Data Analyst, Business Analyst, BI and related internship opportunities.
